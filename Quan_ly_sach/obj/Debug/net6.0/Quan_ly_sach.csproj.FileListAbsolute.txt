@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\C#Programming\Collections & Generics\Quan_ly_sach\Quan_ly_sach\bin\Debug\net6.0\Quan_ly_sach.exe
+C:\Users\ADMIN\source\C#Programming\Collections & Generics\Quan_ly_sach\Quan_ly_sach\bin\Debug\net6.0\Quan_ly_sach.deps.json
+C:\Users\ADMIN\source\C#Programming\Collections & Generics\Quan_ly_sach\Quan_ly_sach\bin\Debug\net6.0\Quan_ly_sach.runtimeconfig.json
+C:\Users\ADMIN\source\C#Programming\Collections & Generics\Quan_ly_sach\Quan_ly_sach\bin\Debug\net6.0\Quan_ly_sach.dll
+C:\Users\ADMIN\source\C#Programming\Collections & Generics\Quan_ly_sach\Quan_ly_sach\bin\Debug\net6.0\Quan_ly_sach.pdb
+C:\Users\ADMIN\source\C#Programming\Collections & Generics\Quan_ly_sach\Quan_ly_sach\obj\Debug\net6.0\Quan_ly_sach.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\C#Programming\Collections & Generics\Quan_ly_sach\Quan_ly_sach\obj\Debug\net6.0\Quan_ly_sach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\C#Programming\Collections & Generics\Quan_ly_sach\Quan_ly_sach\obj\Debug\net6.0\Quan_ly_sach.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\C#Programming\Collections & Generics\Quan_ly_sach\Quan_ly_sach\obj\Debug\net6.0\Quan_ly_sach.AssemblyInfo.cs
+C:\Users\ADMIN\source\C#Programming\Collections & Generics\Quan_ly_sach\Quan_ly_sach\obj\Debug\net6.0\Quan_ly_sach.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\C#Programming\Collections & Generics\Quan_ly_sach\Quan_ly_sach\obj\Debug\net6.0\Quan_ly_sach.dll
+C:\Users\ADMIN\source\C#Programming\Collections & Generics\Quan_ly_sach\Quan_ly_sach\obj\Debug\net6.0\refint\Quan_ly_sach.dll
+C:\Users\ADMIN\source\C#Programming\Collections & Generics\Quan_ly_sach\Quan_ly_sach\obj\Debug\net6.0\Quan_ly_sach.pdb
+C:\Users\ADMIN\source\C#Programming\Collections & Generics\Quan_ly_sach\Quan_ly_sach\obj\Debug\net6.0\Quan_ly_sach.genruntimeconfig.cache
+C:\Users\ADMIN\source\C#Programming\Collections & Generics\Quan_ly_sach\Quan_ly_sach\obj\Debug\net6.0\ref\Quan_ly_sach.dll
